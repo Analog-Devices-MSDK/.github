@@ -8,3 +8,4 @@ You can now find the repositories at https://github.com/analogdevicesinc.  The t
 | msdk                     | [MAX32xxx-MSDK](https://github.com/analogdevicesinc/MAX32xxx-MSDK)     | Software, libraries, examples, and tools for developing firmware for the MAX32xxx line of microcontrollers |
 | openocd                  | [openocd](https://github.com/analogdevicesinc/openocd)                 | ADI's fork of the OpenOCD debugging tool |
 | refdes                   | [MAX78xxx-RefDes](https://github.com/analogdevicesinc/MAX78xxx-RefDes) | Reference designs for MAX78xxx applications |
+| VSCode-Maxim             | [VSCode-Maxim](https://github.com/analogdevicesinc/VSCode-Maxim)       | VSCode support files for the MAX32xxx line of microcontrollers |
